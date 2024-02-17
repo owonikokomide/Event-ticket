@@ -1,0 +1,32 @@
+.event{
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 3rem;
+  padding-left: 10rem;
+  color: aliceblue;
+}
+.container{
+  display: flex;
+  align-items: center;
+}
+.logo{
+  flex: 1;
+}
+.sign{
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  padding: 0rem 3rem;
+  gap: 1rem;
+}
+.links{
+  text-decoration: none;
+  color: blueviolet;
+   padding: 0.6rem 2rem;
+  background-color: aliceblue;
+  border-radius: 0.4rem;
+  border: 1px solid blueviolet;
+}
+.links:hover{
+  color:aliceblue;
+  background-color: blueviolet;
+}

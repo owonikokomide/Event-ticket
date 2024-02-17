@@ -1,0 +1,47 @@
+.body{
+  display: flex;
+}
+.welcomes{
+  padding-left: 5rem;
+  margin-top: 10rem;
+}
+.welcome{
+  color: blueviolet;
+  padding-left: 5rem;
+}
+.book{
+  color: aliceblue;
+  font-size: 4rem;
+  padding-left: 5rem;
+  line-height: 4rem;
+}
+.span{
+  color: blueviolet;
+}
+.pass{
+  color: #787373;
+  padding: 1rem 5rem;
+}
+.but{
+  color: blueviolet;
+  padding: 1rem 8rem;
+  border: 1px solid blueviolet;
+  font-size: 17px;
+  border-radius: 5px;
+}
+.but:hover{
+  background-color: blueviolet;
+  color: aliceblue;
+  cursor: pointer;
+}
+.button{
+  padding: 1rem 10rem;
+}
+.right{
+  flex: 1;
+}
+.left{
+  flex: 1;
+  display: flex;
+  justify-content: flex-start;
+}
