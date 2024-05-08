@@ -1,7 +1,7 @@
 import React from 'react'
 import './Body.css'
 import Hero from './hero.png'
-
+ 
 function Body() {
   return (
     <div className="body">
