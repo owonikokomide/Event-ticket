@@ -7,7 +7,7 @@ import { BrowserRouter as Router } from 'react-router-dom';
 
 function Header() {
   return (
-    <Router>
+    <Router> 
       <div className="container">
         <div className="logo">
           <h1 className="event">Logo</h1>
