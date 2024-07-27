@@ -7,7 +7,7 @@ function Body() {
     <div className="body">
       <div className="right">
         <div className="welcomes">
-          <p className="welcome">Welcome!</p>
+          <p className="welcome">Welcome!</p> 
           <h1 className="book">
             <span className="span"> Book an</span> <br /> event now
           </h1>
