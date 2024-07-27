@@ -9,7 +9,7 @@ function Header() {
   return (
     <Router> 
       <div className="container">
-        <div className="logo">
+        <div className="logo"> 
           <h1 className="event">Logo</h1>
         </div>
         <div className="sign">
